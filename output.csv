@@ -1,0 +1,1007 @@
+Brand,CPU,RAM,Width,SSD,Price
+lenovo,Intel Celeron,4.0,15.6,256.0,132223
+apple,Apple M1,8.0,13.3,256.0,383967
+apple,Apple M1,8.0,13.3,256.0,391560
+chuwi,Intel N100,8.0,14.1,256.0,119987
+apple,Apple M1,8.0,13.3,256.0,393996
+chuwi,Intel Celeron,8.0,14.1,256.0,98988
+asus,Intel Core i5,16.0,15.6,512.0,399089
+huawei,Intel Core i3,8.0,14.0,256.0,207845
+hp,AMD Ryzen 5,8.0,15.6,512.0,209990
+asus,Intel Core i5,16.0,15.6,512.0,257900
+acer,Intel Celeron,4.0,15.6,256.0,223928
+apple,Apple M1,8.0,13.3,256.0,399953
+apple,Apple M1,8.0,13.3,256.0,407366
+asus,Intel Core i5,16.0,15.6,512.0,388990
+chuwi,Intel N100,16.0,15.6,512.0,159990
+apple,Apple M3,18.0,14.2,512.0,972840
+oyan,Intel Celeron,8.0,14.1,512.0,127500
+lenovo,Intel Core i7,16.0,16.0,1000.0,719000
+acer,Intel Celeron,4.0,11.6,64.0,99900
+lenovo,AMD Athlon,8.0,14.0,128.0,181000
+apple,Apple M1,16.0,16.2,512.0,927721
+apple,Apple M2,8.0,13.3,512.0,663053
+apple,Apple M2,8.0,13.3,256.0,579255
+apple,,8.0,13.6,256.0,508681
+apple,Apple M2,8.0,13.6,256.0,509257
+apple,Apple M2,8.0,13.6,256.0,514653
+apple,Apple M2,16.0,16.2,512.0,1090609
+apple,Apple M2,8.0,15.3,512.0,676953
+apple,Apple M2,8.0,15.3,256.0,578900
+apple,Apple M2,8.0,15.3,256.0,578006
+lenovo,Intel Celeron,4.0,15.6,256.0,128500
+asus,Intel Core i5,16.0,15.6,512.0,249990
+lenovo,Intel Core i5,8.0,15.6,512.0,227090
+lenovo,Intel Core i5,8.0,15.6,512.0,251075
+lenovo,,16.0,15.6,512.0,429900
+lenovo,Intel Core i3,8.0,15.6,512.0,219000
+acer,AMD Ryzen 7,16.0,16.0,1024.0,599990
+acer,Intel Pentium,8.0,15.6,256.0,222989
+apple,Apple M3,18.0,14.2,512.0,974079
+apple,Apple M3,36.0,16.2,512.0,1358539
+hydra,Intel Celeron,12.0,15.6,512.0,109990
+huawei,Intel Core i5,8.0,16.0,512.0,288989
+huawei,Intel Core i5,16.0,16.0,512.0,319142
+gigabyte,Intel Core i7,16.0,15.6,1000.0,647988
+acer,Intel Core i5,16.0,15.6,512.0,367825
+huawei,,8.0,16.0,512.0,229579
+acer,Intel Core i5,16.0,15.6,512.0,379900
+acer,Intel Core i5,16.0,15.6,512.0,359910
+acer,,8.0,15.6,512.0,289990
+huawei,Intel Core i3,8.0,16.0,512.0,229886
+oyan,Intel N100,16.0,15.6,512.0,166500
+chuwi,Intel Core i5,16.0,14.0,512.0,209990
+asus,AMD Ryzen 5,16.0,15.6,512.0,479990
+asus,Intel Core i5,16.0,17.3,512.0,417542
+hydra,Intel Pentium,12.0,15.6,512.0,119990
+asus,Intel Core i3,8.0,15.6,512.0,189990
+asus,AMD Ryzen 5,16.0,15.6,512.0,374990
+aspire,Intel N100,8.0,14.0,256.0,139980
+neyro,Intel N95,16.0,15.6,512.0,169000
+chuwi,Intel Celeron,8.0,15.6,256.0,99990
+yepo,Intel Core i7,8.0,15.6,512.0,189990
+lenovo,Intel Core i5,16.0,15.6,1000.0,278217
+acer,Intel Core i5,8.0,15.6,512.0,322990
+asus,Intel Core i7,16.0,15.6,1000.0,299990
+asus,AMD Ryzen 5,16.0,15.6,512.0,428990
+asus,Intel Core i7,16.0,15.6,1024.0,289990
+apple,Apple M2,8.0,13.6,256.0,499538
+hp,Intel Core i3,8.0,15.6,512.0,197446
+hp,Intel Core i5,16.0,15.6,512.0,383990
+yepo,Intel N95,16.0,15.6,512.0,179000
+apple,Apple M3,18.0,14.2,1000.0,1199988
+apple,Apple M3,18.0,16.2,512.0,1203927
+zentek,Intel N95,16.0,15.6,512.0,240000
+hp,Intel Core i5,8.0,15.6,512.0,269895
+lenovo,Intel Core i5,16.0,15.6,512.0,259790
+chuwi,Intel N100,12.0,10.51,512.0,194987
+lenovo,Intel Core i3,8.0,15.6,512.0,218985
+asus,AMD Ryzen 7,16.0,16.0,512.0,289890
+apple,,8.0,15.3,512.0,676953
+chuwi,Intel Celeron,8.0,14.0,256.0,88990
+acer,Intel Core i5,16.0,15.6,512.0,299990
+asus,AMD Ryzen 3,8.0,15.6,512.0,212336
+acer,,16.0,15.6,512.0,309990
+huawei,Intel Core i5,16.0,14.0,512.0,308960
+lenovo,AMD Athlon,8.0,15.6,256.0,159500
+asus,Intel Core i7,16.0,16.0,1024.0,708990
+asus,Intel Core i7,16.0,15.6,1000.0,659990
+apple,Apple M2,8.0,15.3,512.0,679087
+apple,Apple M2,8.0,15.3,256.0,579784
+lenovo,Intel Core i3,8.0,15.6,512.0,234568
+asus,AMD Ryzen 5,16.0,15.6,512.0,432247
+acer,Intel Core i5,16.0,15.6,512.0,247990
+apple,Apple M3,36.0,14.2,1024.0,1646890
+hp,Intel Core i3,8.0,15.6,512.0,189271
+hp,Intel Celeron,8.0,15.6,256.0,154914
+huawei,Intel Core i5,8.0,16.0,512.0,289590
+lenovo,Intel Core i5,16.0,15.6,512.0,278999
+acer,Intel Core i5,8.0,15.6,512.0,390000
+lenovo,AMD Ryzen 3,8.0,15.6,512.0,184570
+lenovo,AMD Ryzen 5,16.0,15.6,512.0,259513
+huawei,Intel Core i5,8.0,14.0,512.0,267980
+asus,Intel Core i3,8.0,15.6,512.0,197421
+asus,AMD Ryzen 5,16.0,15.6,512.0,358364
+huawei,Intel Core i5,16.0,14.0,512.0,308989
+asus,AMD Ryzen 5,16.0,15.6,512.0,348980
+apple,Apple M3,8.0,13.6,256.0,659900
+neyro,Intel Core i7,16.0,15.6,512.0,299000
+lenovo,Intel Core i3,8.0,15.6,256.0,226465
+lenovo,Intel Core i3,8.0,14.0,512.0,191500
+lenovo,Intel Celeron,4.0,15.6,256.0,130000
+asus,Intel Core i5,16.0,15.6,512.0,404000
+lenovo,Intel Pentium,8.0,15.6,256.0,175000
+apple,Apple M2,8.0,15.3,256.0,569440
+apple,Apple M3,18.0,16.2,512.0,1204898
+apple,Apple M3,8.0,14.2,512.0,765100
+apple,Apple M3,8.0,14.2,512.0,763344
+huawei,Intel Core i5,16.0,16.0,512.0,319590
+lenovo,Intel Celeron,4.0,15.6,256.0,129894
+acer,Intel Core i3,8.0,14.0,512.0,169990
+asus,Intel Core i7,16.0,18.0,1000.0,815299
+asus,AMD Ryzen 5,16.0,17.3,1024.0,522014
+hp,AMD Ryzen 5,8.0,15.6,512.0,259000
+lenovo,Intel Core i5,8.0,15.6,512.0,278997
+lenovo,Intel Core i3,8.0,15.6,512.0,198989
+asus,AMD Ryzen 7,16.0,15.6,512.0,498990
+acer,Intel Core i7,16.0,15.6,512.0,419990
+apple,Apple M3,36.0,16.2,1024.0,1792725
+acer,Intel Core i7,32.0,15.6,512.0,489510
+asus,AMD Ryzen 7,16.0,15.6,512.0,579990
+asus,Intel Core i9,16.0,18.0,1000.0,1099990
+gigabyte,Intel Core i7,16.0,15.6,1000.0,479990
+hydra,Intel Core i7,16.0,15.6,512.0,199990
+vivobook,AMD Ryzen 5,8.0,15.6,512.0,234990
+adreamer,Intel Core i7,16.0,15.6,512.0,149990
+chuwi,Intel N100,8.0,15.6,256.0,138990
+asus,Intel Core Ultra 5 125H,16.0,14.0,1000.0,459990
+zentek,Intel Celeron,16.0,15.6,512.0,220000
+zentek,AMD Ryzen 7,16.0,16.0,1024.0,390000
+yepo,Intel N95,16.0,14.1,512.0,259990
+asus,AMD Ryzen 5,16.0,15.6,512.0,228990
+asus,Intel Core i7,24.0,15.6,1000.0,399000
+acer,Intel Core i3,8.0,14.0,512.0,229000
+apple,Apple M3,8.0,13.6,512.0,779900
+lenovo,Intel Core i5,16.0,15.6,512.0,449990
+asus,Intel Core i5,48.0,16.0,2000.0,699000
+hp,AMD Ryzen 5,8.0,15.6,512.0,199990
+asus,Intel Core i5,16.0,17.3,1024.0,519000
+apple,Apple M1,8.0,13.3,256.0,437950
+lenovo,Intel Core i3,4.0,15.6,1024.0,249990
+apple,Apple M1,16.0,16.2,1024.0,955838
+lenovo,Intel Celeron,4.0,15.6,128.0,150339
+chuwi,Intel N100,12.0,13.5,512.0,399990
+apple,Apple M2,8.0,13.6,512.0,660000
+apple,Apple M2,8.0,13.6,512.0,639748
+hp,Intel Core i3,8.0,15.6,512.0,229000
+hp,Intel Core i5,8.0,15.6,512.0,289990
+lenovo,Intel Core i3,8.0,15.6,512.0,194000
+xiaomi,Intel Core i3,8.0,15.6,256.0,178911
+hp,Intel Core i5,16.0,15.6,512.0,478674
+asus,AMD Ryzen 7,16.0,15.6,512.0,479990
+asus,AMD Ryzen 5,8.0,15.6,512.0,279989
+asus,Intel Core i5,8.0,15.6,512.0,289990
+asus,,8.0,17.3,512.0,229890
+hp,Intel Core i3,8.0,14.0,512.0,239990
+asus,Intel Core i3,8.0,15.6,512.0,219000
+acer,Intel Core i5,16.0,14.0,512.0,279990
+acer,Intel Core i5,8.0,14.0,512.0,281275
+acer,AMD Ryzen 5,16.0,15.6,512.0,564980
+huawei,Intel Core i5,8.0,15.6,256.0,280000
+asus,Intel Core i5,16.0,17.3,512.0,383989
+acer,AMD Ryzen 7,16.0,16.0,512.0,509990
+acer,Intel Core i5,16.0,15.6,512.0,346567
+asus,Intel Core i5,8.0,16.0,512.0,368990
+huawei,Intel Core i5,16.0,16.0,512.0,348949
+lenovo,Intel Core i3,8.0,15.6,256.0,192929
+lenovo,Intel Core i7,16.0,15.6,1000.0,644990
+asus,Intel Core i3,8.0,15.6,256.0,159990
+lenovo,AMD Ryzen 5,16.0,15.6,256.0,208399
+asus,Intel Core i5,16.0,17.3,1000.0,449000
+lenovo,Intel Core i3,8.0,15.6,512.0,184280
+acer,AMD Ryzen 7,16.0,15.6,512.0,229379
+chuwi,Intel Core i3,8.0,15.6,512.0,169990
+asus,Intel Core i7,16.0,16.0,1000.0,649990
+acer,Intel Core i5,8.0,15.6,512.0,371780
+apple,Apple M3,8.0,13.6,256.0,602698
+yerview,Intel Celeron,8.0,14.0,512.0,108000
+acer,Intel Core i5,16.0,15.6,1000.0,399000
+noutbuk,Intel Core i5,16.0,15.6,512.0,199990
+apple,Apple M3,8.0,15.3,256.0,728942
+asus,Intel Core i5,16.0,15.6,512.0,310720
+lenovo,Intel Celeron,4.0,15.6,1000.0,173567
+lenovo,Intel Celeron,4.0,14.0,128.0,149079
+lenovo,Intel Celeron,4.0,15.6,1024.0,164101
+hp,AMD Ryzen 5,8.0,15.6,512.0,259000
+lenovo,Intel Core i3,8.0,14.0,256.0,189000
+hp,AMD Ryzen 5,8.0,15.6,512.0,259000
+huawei,Intel Core i5,8.0,15.6,256.0,259990
+apple,Apple M2,8.0,13.3,256.0,592676
+lenovo,AMD Ryzen 3,8.0,15.6,1000.0,203987
+apple,Apple M2,8.0,13.6,512.0,663756
+acer,Intel Core i5,16.0,15.6,512.0,308337
+acer,Intel Core i5,8.0,15.6,512.0,489995
+acer,Intel Core i7,8.0,15.6,512.0,497764
+lenovo,AMD Athlon,8.0,15.6,256.0,169990
+acer,AMD Ryzen 7,24.0,15.6,1000.0,999970
+asus,Intel Core i5,8.0,15.6,512.0,299999
+acer,Intel Pentium,8.0,15.6,256.0,246911
+acer,AMD Ryzen 3,8.0,15.6,512.0,199990
+acer,Intel Core i5,16.0,15.6,512.0,439786
+apple,Apple M2,16.0,16.2,512.0,1111613
+asus,Intel Core i7,16.0,15.6,1024.0,589989
+asus,AMD Ryzen 9,32.0,16.0,2000.0,2329960
+acer,,8.0,15.6,512.0,248786
+great,Intel Celeron,16.0,15.6,512.0,152800
+yepo,Intel Core i7,16.0,15.6,512.0,309990
+acer,Intel Core i5,16.0,14.0,512.0,279990
+asus,Intel Core i7,16.0,15.6,1000.0,663290
+noutbuk,AMD Ryzen 3,8.0,14.0,256.0,220780
+asus,AMD Ryzen 7,16.0,15.6,512.0,494888
+asus,AMD Ryzen 3,8.0,14.0,256.0,194990
+hp,Intel Core i7,16.0,16.1,1024.0,814980
+lenovo,Intel Core i5,16.0,15.6,512.0,437990
+acer,Intel Celeron,4.0,15.6,128.0,226999
+acer,AMD Ryzen 3,8.0,15.6,500.0,167700
+asus,Intel Core i7,16.0,15.6,1024.0,569990
+acer,Intel Core i5,16.0,15.6,512.0,232131
+asus,Intel Core i3,8.0,15.6,512.0,199990
+lenovo,AMD Ryzen 3,8.0,15.6,512.0,185978
+asus,Intel Core i3,8.0,15.6,256.0,198990
+ardor,Intel Core i5,16.0,17.3,512.0,640413
+acer,Intel Core i3,8.0,15.6,256.0,209000
+acer,Intel Core i5,16.0,15.6,512.0,482895
+apple,Apple M2,8.0,13.6,256.0,570000
+lenovo,Intel Core i5,8.0,15.6,512.0,364990
+asus,Intel Core i7,16.0,15.6,512.0,539833
+apple,Apple M3,18.0,14.2,1024.0,1209054
+apple,,8.0,15.3,512.0,682780
+apple,Apple M3,48.0,16.2,1024.0,2019809
+apple,Apple M3,8.0,14.2,1024.0,810200
+apple,Apple M3,8.0,14.2,1024.0,805593
+chuwi,Intel N100,8.0,15.6,256.0,139988
+dell,Intel Core i5,8.0,15.6,512.0,241590
+hp,AMD Ryzen 5,16.0,15.6,512.0,380040
+asus,Intel Core i5,16.0,16.0,512.0,568899
+asus,Intel Core i9,32.0,18.0,1000.0,1499990
+lenovo,Intel Core i3,8.0,15.6,512.0,208970
+asus,,16.0,16.0,1000.0,559000
+asus,Intel Core i3,8.0,15.6,512.0,229890
+asus,,8.0,15.6,512.0,239990
+acer,,8.0,15.6,512.0,236890
+acer,,16.0,15.6,512.0,249816
+acer,Intel Core i3,8.0,15.6,512.0,229072
+acer,,16.0,15.6,512.0,208980
+huawei,Intel Core i7,16.0,16.0,1024.0,459870
+huawei,Intel Core i9,16.0,16.0,1024.0,499570
+asus,AMD Ryzen 9,16.0,16.0,1024.0,737969
+honor,Intel Core i5,16.0,16.0,512.0,299885
+lenovo,Intel Core i7,32.0,16.0,1000.0,868405
+lenovo,AMD Ryzen 5,16.0,15.6,512.0,229990
+thunderobot,Intel Core i5,16.0,15.6,512.0,479990
+gigabyte,Intel Core i7,16.0,17.3,1000.0,836989
+acer,Intel Core i7,16.0,15.6,512.0,369990
+asus,Intel Core i7,16.0,17.3,1000.0,359990
+thunderobot,Intel Core i5,16.0,15.6,512.0,389990
+asus,Intel Core Ultra 7,16.0,16.0,1024.0,898000
+asus,AMD Ryzen 5,8.0,16.0,512.0,224990
+asus,Intel Core Ultra 7,16.0,14.0,1000.0,799900
+asus,AMD Ryzen 7,16.0,15.6,1000.0,699990
+castom,Intel Celeron,16.0,15.6,512.0,139800
+acer,AMD Ryzen 7,16.0,15.6,1000.0,299000
+msi,Intel Core i7,16.0,15.6,1024.0,698124
+qere,Intel Celeron,16.0,15.6,512.0,178989
+asus,Intel Core i7,32.0,15.6,1000.0,699000
+msi,Intel Core i5,16.0,15.6,512.0,454580
+asus,Intel Core i7,16.0,16.0,1024.0,950550
+apple,Apple M3,16.0,13.6,512.0,918321
+lenovo,Intel Core i7,16.0,16.0,1024.0,819989
+asus,Intel Core i7,16.0,15.6,512.0,549990
+acer,Intel N100,8.0,14.0,512.0,199000
+asus,Intel Core i5,16.0,15.6,512.0,339990
+apple,Apple M3,8.0,15.3,512.0,899000
+apple,Apple M3,8.0,15.3,512.0,899980
+apple,Apple M3,8.0,13.6,256.0,649990
+apple,Apple M3,8.0,13.6,256.0,644860
+asus,AMD Ryzen 5,16.0,15.6,512.0,346090
+asus,AMD Ryzen 5,16.0,15.6,512.0,439880
+zentek,Intel Core i7,20.0,16.0,512.0,370000
+apple,Apple M3,8.0,13.0,256.0,645030
+lenovo,Intel Core i9,32.0,16.0,1000.0,1129990
+asus,Intel Core i5,16.0,16.0,1000.0,599000
+zentek,Intel N95,16.0,15.6,512.0,229000
+msi,Intel Core i5,16.0,15.6,512.0,484031
+asus,Intel Core i5,64.0,17.3,2000.0,649000
+asus,Intel Core i5,16.0,15.6,512.0,469000
+asus,Intel Core i5,32.0,15.6,2000.0,549000
+asus,Intel Core i7,40.0,15.6,2000.0,449000
+asus,Intel Core i7,16.0,15.6,512.0,299990
+acer,Intel Celeron,4.0,15.6,500.0,156000
+lenovo,Intel Core i3,4.0,15.6,1000.0,235990
+acer,Intel Core i3,4.0,15.6,256.0,217878
+lenovo,Intel Core i3,4.0,15.6,1000.0,298890
+hp,AMD Ryzen 5,8.0,15.6,512.0,259000
+asus,Intel Core i5,16.0,15.6,512.0,448093
+asus,Intel Core i3,8.0,14.0,512.0,449890
+hp,AMD Ryzen 3,8.0,15.6,512.0,390000
+acer,Intel Core i3,4.0,15.6,1024.0,194860
+hp,AMD Athlon,4.0,15.6,128.0,299990
+hp,AMD Ryzen 5,8.0,14.0,512.0,383880
+lenovo,Intel Core i3,4.0,15.6,1000.0,219000
+acer,Intel Core i5,8.0,15.6,512.0,449405
+lenovo,Intel Celeron,4.0,15.6,1000.0,168995
+lenovo,AMD Ryzen 5,8.0,15.6,256.0,306424
+apple,Apple M1,16.0,14.2,512.0,1055990
+apple,Apple M1,16.0,16.2,512.0,1060256
+leap,Intel Pentium,4.0,11.6,128.0,224989
+realme,Intel Core i5,8.0,14.0,512.0,399990
+asus,Intel Core i3,8.0,15.6,256.0,234988
+asus,Intel Core i5,8.0,15.6,512.0,459980
+asus,Intel Core i7,8.0,15.6,512.0,357790
+acer,Intel Core i5,8.0,15.6,512.0,437964
+asus,Intel Core i5,16.0,17.3,512.0,521358
+hp,Intel Core i7,8.0,14.0,256.0,366873
+acer,Intel Core i5,8.0,15.6,512.0,344880
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,319890
+hp,AMD Ryzen 7,16.0,13.0,512.0,689990
+apple,Apple M2,8.0,13.6,512.0,650776
+hp,Intel Core i5,16.0,16.1,512.0,510790
+asus,Intel Core i5,8.0,14.0,512.0,549915
+asus,Intel Core i7,16.0,15.6,512.0,629990
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,529000
+lenovo,Intel Core i3,8.0,15.6,256.0,200000
+asus,Intel Core i7,16.0,15.6,1000.0,810790
+acer,Intel Core i3,8.0,15.6,512.0,223003
+zik,Intel Celeron,8.0,11.6,64.0,110000
+asus,Intel Core i5,16.0,15.6,512.0,502000
+asus,AMD Ryzen 5,8.0,15.6,512.0,399990
+asus,Intel Core i3,8.0,15.6,256.0,238800
+hp,AMD Ryzen 5,16.0,16.1,512.0,503590
+lenovo,AMD Athlon,8.0,15.6,256.0,164990
+lenovo,Intel Core i5,8.0,15.6,512.0,499990
+hp,AMD Ryzen 5,16.0,16.1,512.0,555590
+acer,AMD Ryzen 7,16.0,15.6,512.0,989990
+asus,Intel Core i3,8.0,15.6,512.0,319990
+asus,Intel Core i3,8.0,15.6,256.0,229990
+hp,AMD Ryzen 5,8.0,15.6,512.0,249000
+hp,Intel Core i5,16.0,15.6,512.0,479880
+hp,Intel Core i5,8.0,15.6,512.0,298999
+razer,Intel Core i7,16.0,17.3,1024.0,699990
+hp,AMD Ryzen 7,16.0,16.1,512.0,849990
+acer,AMD Ryzen 9,16.0,17.3,1000.0,999970
+asus,Intel Core i3,8.0,15.6,512.0,299990
+asus,AMD Ryzen 7,16.0,15.6,1000.0,1179990
+hp,Intel Core i7,8.0,15.6,512.0,408586
+asus,Intel Core i3,8.0,15.6,512.0,389990
+acer,Intel Core i5,8.0,15.6,512.0,232780
+great,Intel Celeron,6.0,14.0,128.0,145698
+acer,Intel Core i5,8.0,14.0,256.0,329990
+asus,AMD Ryzen 7,16.0,14.0,512.0,483335
+lenovo,Intel Core i5,16.0,15.6,512.0,583710
+lenovo,Intel Celeron,4.0,14.0,128.0,149798
+lenovo,Intel Core i5,16.0,14.0,256.0,843898
+apple,Apple M2,16.0,14.2,512.0,989739
+apple,Apple M2,16.0,14.2,512.0,996353
+hp,Intel Core i5,16.0,16.1,512.0,516990
+lenovo,Intel Core i5,16.0,16.0,512.0,529590
+apple,,32.0,16.0,512.0,1119990
+hp,Intel Core i7,32.0,17.3,1024.0,1479000
+dell,Intel Core i7,16.0,15.6,1000.0,1684570
+asus,Intel Core i5,16.0,15.6,512.0,438687
+asus,Intel Core i5,16.0,13.4,512.0,799990
+asus,AMD Ryzen 7,16.0,16.0,1024.0,952950
+hp,AMD Ryzen 3,8.0,17.3,256.0,219990
+asus,AMD Ryzen 9,16.0,17.3,1000.0,1200000
+hp,Intel Core i7,8.0,15.6,512.0,490206
+asus,AMD Ryzen 9,32.0,17.3,1024.0,1719990
+asus,Intel Core i5,16.0,17.3,512.0,493989
+asus,AMD Ryzen 7,16.0,15.6,512.0,619000
+asus,Intel Core i5,16.0,16.0,1000.0,629889
+hp,AMD Ryzen 5,16.0,16.1,512.0,528990
+lenovo,Intel Core i5,16.0,16.0,1000.0,685000
+chuwi,Intel Core i3,16.0,15.6,512.0,229990
+acer,Intel Core i3,8.0,15.6,256.0,194990
+asus,Intel Core i9,32.0,16.0,1024.0,1498500
+hp,Intel Core i7,8.0,17.3,512.0,437760
+lenovo,Intel Core i5,8.0,15.6,256.0,230910
+lenovo,Intel Core i7,8.0,15.6,512.0,399999
+huawei,Intel Core i5,16.0,15.6,512.0,349990
+huawei,Intel Core i5,8.0,15.6,256.0,259990
+hp,Intel N100,8.0,15.6,256.0,174990
+hp,Intel Core i9,32.0,17.3,2000.0,1699990
+acer,Intel Core i5,16.0,15.6,512.0,249990
+hp,Intel Core i5,16.0,15.6,512.0,489990
+asus,Intel Core i3,8.0,14.0,256.0,499990
+asus,Intel Core i5,16.0,16.0,512.0,599990
+apple,Apple M2,8.0,15.3,512.0,849941
+noutbuk,Intel Core i3,8.0,15.6,512.0,248000
+asus,AMD Ryzen 5,8.0,15.6,512.0,296990
+asus,Intel Core i5,8.0,17.3,512.0,379990
+apple,Apple M2,16.0,15.3,513.0,1041000
+lenovo,Intel Celeron,4.0,15.6,240.0,136646
+asus,Intel Core i5,16.0,15.6,512.0,339900
+hp,Intel Core i3,8.0,14.0,512.0,197990
+acer,Intel Celeron,8.0,14.0,256.0,287870
+acer,Intel Core i5,8.0,14.0,512.0,299990
+acer,Intel Core i5,16.0,15.6,512.0,349000
+asus,Intel Core i3,8.0,14.0,256.0,319890
+acer,Intel Core i5,16.0,17.3,512.0,549985
+acer,AMD Ryzen 5,8.0,15.6,1000.0,189900
+asus,AMD Ryzen 7,16.0,16.0,512.0,383988
+hp,Intel Core i5,16.0,16.1,512.0,488990
+lenovo,Intel Core i7,16.0,15.6,512.0,598990
+lenovo,AMD Ryzen 7,16.0,16.0,512.0,547990
+lenovo,AMD Ryzen 7,16.0,14.0,512.0,579990
+lenovo,AMD Ryzen 5,16.0,16.0,1024.0,705791
+asus,Intel Core i7,16.0,15.6,1024.0,634580
+asus,AMD Ryzen 9,16.0,15.6,1024.0,599988
+acer,Intel Core i3,8.0,15.6,512.0,223658
+acer,Intel Core i5,16.0,14.0,512.0,289820
+asus,Intel Core i5,8.0,15.6,512.0,289990
+asus,Intel Core i5,16.0,16.0,1024.0,778990
+asus,Intel Core i5,16.0,16.0,512.0,337883
+acer,Intel Core i5,8.0,15.6,512.0,339000
+lenovo,Intel Core i7,16.0,16.0,1024.0,614990
+lenovo,AMD Ryzen 7,16.0,16.0,512.0,649990
+lenovo,AMD Ryzen 3,8.0,15.6,256.0,188983
+acer,Intel Core i5,8.0,15.6,256.0,199990
+acer,Intel Core i7,16.0,15.6,512.0,550000
+zentek,Intel N95,16.0,15.6,512.0,189900
+thunderobot,Intel Core i9,32.0,16.0,2000.0,1183000
+asus,AMD Ryzen 5,8.0,15.6,512.0,399990
+apple,,8.0,13.6,256.0,566989
+lenovo,AMD Ryzen 5,16.0,15.6,512.0,282101
+acer,Intel Core i9,16.0,18.0,1000.0,1599790
+acer,Intel Core i5,16.0,15.6,512.0,437943
+acer,Intel Core i5,16.0,15.6,512.0,494988
+acer,AMD Ryzen 3,8.0,15.6,512.0,234993
+acer,Intel Core i5,16.0,15.6,512.0,319990
+acer,Intel Core i5,16.0,15.6,512.0,379990
+acer,Intel Core i3,8.0,15.6,256.0,229890
+asus,Intel Core i5,16.0,15.6,512.0,398921
+asus,Intel Pentium,8.0,14.0,256.0,199999
+asus,Intel Core i3,8.0,15.6,256.0,249999
+asus,Intel Core i3,8.0,16.0,512.0,283156
+gigabyte,Intel Core i7,16.0,16.0,512.0,589990
+acer,Intel Core i7,16.0,17.3,1000.0,642543
+asus,AMD Ryzen 5,16.0,15.6,512.0,249990
+asus,Intel Core i7,16.0,15.6,512.0,598999
+asus,AMD Ryzen 5,8.0,15.6,512.0,240420
+apple,Apple M3,36.0,16.2,1024.0,1783435
+asus,Intel Core i5,16.0,17.3,512.0,488999
+acer,Intel Core i9,32.0,15.6,2000.0,2699990
+hp,Intel Core i5,16.0,16.1,512.0,613531
+apple,Apple M3,36.0,16.2,1024.0,1786213
+ardor,Intel Core i5,16.0,15.6,512.0,599990
+hp,Intel Core i5,16.0,13.5,1000.0,699990
+zentek,Intel Core i7,16.0,16.0,512.0,520000
+kuu,Intel Celeron,16.0,15.6,512.0,139900
+acer,Intel Core i3,8.0,15.6,256.0,199990
+asus,Intel Core i5,8.0,16.0,512.0,419985
+asus,Intel Core i7,16.0,15.6,512.0,625990
+acer,Intel Core i5,8.0,17.3,512.0,249990
+asus,Intel Core i5,32.0,15.6,1000.0,529000
+lenovo,Intel Core i7,32.0,16.0,1000.0,974900
+lenovo,Intel Core i7,16.0,15.6,1000.0,387995
+lenovo,Intel Core i5,16.0,16.0,512.0,295555
+asus,Intel Core i5,16.0,15.6,1000.0,439000
+asus,Intel Core i5,16.0,15.6,1000.0,449000
+asus,Intel Core i5,16.0,15.6,512.0,319900
+asus,Intel Core i5,16.0,15.6,512.0,369000
+lenovo,,8.0,15.6,256.0,142000
+xiaomi,,16.0,16.0,1000.0,538499
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,211836
+asus,AMD Ryzen 9,16.0,16.0,1000.0,999994
+huawei,Intel Core i9,16.0,16.0,1000.0,499589
+lenovo,Intel Core i7,32.0,16.0,1000.0,956989
+lenovo,AMD Ryzen 7,16.0,15.6,512.0,675853
+asus,AMD Ryzen 5,16.0,16.0,512.0,249990
+xiaomi,Intel Core i5,16.0,16.0,512.0,485681
+asus,AMD Ryzen 9,16.0,15.6,512.0,629990
+hp,Intel Core i5,16.0,15.6,1000.0,578890
+asus,Intel Core i5,16.0,16.0,512.0,515988
+asus,Intel Core i3,16.0,15.6,512.0,259000
+asus,Intel Core i3,8.0,15.6,512.0,349990
+asus,AMD Ryzen 5,16.0,14.0,1000.0,379890
+acer,Intel Core i9,16.0,16.0,1000.0,1432811
+hp,AMD Ryzen 5,8.0,15.6,512.0,399990
+gigabyte,Intel Core i7,16.0,15.6,1000.0,489990
+dell,Intel Core i7,16.0,15.6,512.0,473260
+acer,Intel Core i7,16.0,15.6,512.0,519990
+acer,Intel Core i5,16.0,15.6,512.0,439990
+acer,Intel Core i7,32.0,15.6,512.0,526441
+dell,Intel Core i7,16.0,15.6,512.0,473260
+acer,Intel Core i7,16.0,15.6,512.0,519990
+acer,Intel Core i5,16.0,15.6,512.0,439990
+acer,Intel Core i7,32.0,15.6,512.0,526286
+asus,AMD Ryzen 5,8.0,16.0,512.0,429890
+asus,Intel Core i5,16.0,17.3,512.0,418999
+lenovo,AMD Ryzen 5,16.0,14.0,512.0,226799
+lenovo,AMD Ryzen 5,16.0,16.0,512.0,314550
+huawei,Intel Core i5,16.0,16.0,512.0,349590
+asus,Intel Core i5,8.0,14.5,512.0,550000
+lenovo,Intel Core i9,32.0,14.5,1024.0,997790
+acer,AMD Ryzen 5,16.0,15.6,512.0,234990
+acer,Intel Core i7,16.0,15.6,512.0,309000
+acer,Intel Core i7,32.0,15.6,1024.0,369000
+gigabyte,Intel Core i7,16.0,16.0,1000.0,599968
+asus,Intel Core i5,16.0,15.6,512.0,269990
+asus,Intel Core i7,16.0,17.3,512.0,395988
+lenovo,Intel Core i5,32.0,14.0,1024.0,492690
+lenovo,AMD Ryzen 7,16.0,14.5,1024.0,612090
+asus,Intel Core i3,8.0,15.6,512.0,229990
+hp,Intel Core Ultra 7,32.0,14.0,2000.0,819990
+asus,Intel Core i5,16.0,15.6,512.0,339000
+asus,Intel Core i5,16.0,14.0,512.0,519990
+huawei,AMD Ryzen 7,8.0,15.6,512.0,259990
+asus,Intel Core Ultra 9,32.0,16.0,2000.0,1699990
+asus,AMD Ryzen 5,16.0,15.6,512.0,387990
+lenovo,Intel Core i5,16.0,15.6,1000.0,349000
+asus,Intel Pentium,4.0,13.3,128.0,320990
+lenovo,AMD Athlon,8.0,15.6,256.0,164163
+hp,Intel Core i5,16.0,16.0,512.0,526837
+huawei,Intel Core i5,8.0,14.0,512.0,267990
+dexp,Intel Core i5,16.0,15.6,512.0,349990
+acer,AMD Ryzen 7,16.0,15.6,512.0,289000
+hp,AMD Ryzen 7,8.0,15.6,512.0,299000
+hp,Intel Core i5,8.0,17.3,512.0,279990
+lenovo,AMD Ryzen 5,16.0,14.0,512.0,448800
+asus,Intel Core Ultra 7,16.0,14.0,1024.0,853990
+acer,Intel Core i5,8.0,15.6,256.0,229990
+xiaomi,Intel Core Ultra 7,32.0,14.0,1024.0,684994
+lenovo,Intel Core i7,16.0,16.0,512.0,638407
+lenovo,Intel Core i7,16.0,15.6,512.0,538990
+lenovo,AMD Ryzen 7,16.0,15.6,512.0,578990
+apple,Apple M3,16.0,13.6,512.0,913696
+asus,Intel Core i7,32.0,15.6,1000.0,689000
+msi,Intel Core i5,16.0,15.6,512.0,523494
+msi,Intel Core i5,16.0,15.6,512.0,389990
+chuwi,Intel Core i3,16.0,14.0,512.0,229990
+dell,Intel Core i5,16.0,14.0,512.0,402655
+asus,Intel Core i5,16.0,13.3,512.0,387828
+asus,Intel Core i7,16.0,15.6,512.0,279990
+asus,Intel Core i7,16.0,15.6,1024.0,609000
+asus,Intel Core i7,40.0,15.6,2000.0,499000
+acer,Intel Core i5,32.0,15.6,1000.0,449000
+acer,Intel N100,8.0,14.0,256.0,179000
+asus,AMD Ryzen 5,16.0,15.6,512.0,479990
+asus,Intel Core i7,16.0,16.0,1000.0,769990
+acer,Intel Core i7,16.0,15.6,512.0,319990
+apple,Apple M3,8.0,15.3,512.0,899989
+apple,Apple M3,8.0,15.3,256.0,769990
+apple,Apple M3,8.0,15.3,256.0,779000
+apple,Apple M3,8.0,15.3,256.0,779990
+apple,Apple M3,8.0,13.6,256.0,658990
+asus,AMD Ryzen 5,16.0,17.3,1000.0,517735
+lenovo,Intel Core i5,16.0,15.6,1024.0,349000
+lenovo,Intel Core Ultra 5 125H,16.0,14.0,512.0,329901
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,214990
+asus,Intel Core i7,16.0,18.0,1024.0,815077
+hp,Intel Core i5,16.0,15.6,512.0,362989
+asus,Intel Core i9,16.0,16.0,1000.0,1000845
+asus,Intel Core i7,16.0,16.0,1000.0,650200
+lenovo,AMD Ryzen 7,16.0,15.6,512.0,509990
+asus,Intel Core i7,16.0,16.0,1000.0,753429
+asus,Intel Core i7,16.0,16.0,512.0,699990
+hp,AMD Ryzen 7,16.0,15.6,1024.0,329990
+hp,AMD Ryzen 7,16.0,15.6,1024.0,396980
+asus,Intel Core i5,16.0,16.0,512.0,589000
+apple,Apple M3,8.0,15.3,256.0,721389
+acer,Intel Core i5,8.0,14.0,512.0,239990
+xiaomi,Intel Core i9,16.0,16.0,1024.0,879990
+hp,AMD Ryzen 7,16.0,15.6,512.0,259990
+lenovo,AMD Ryzen 7,16.0,14.5,1000.0,540650
+asus,Intel Core Ultra 7,16.0,13.3,1000.0,699990
+adreamer,Intel Celeron,8.0,14.0,128.0,95999
+acer,Intel Core i7,16.0,15.6,1000.0,649000
+expertbook,Intel Core i7,16.0,15.6,1000.0,443988
+hp,AMD Ryzen 7,8.0,15.6,512.0,288990
+hp,Intel Core i5,16.0,15.6,512.0,309900
+hp,Intel Core i5,16.0,15.6,512.0,274990
+asus,Intel Core Ultra 7,16.0,14.0,1000.0,599990
+asus,Intel Core i9,64.0,18.0,2000.0,2059990
+asus,AMD Ryzen 3,8.0,15.6,512.0,189990
+asus,AMD Ryzen 5,16.0,15.6,512.0,389990
+acer,Intel Core i5,8.0,15.6,512.0,539990
+hp,Intel Core i5,8.0,15.6,512.0,265990
+lenovo,Intel Core i5,8.0,15.6,256.0,459000
+lenovo,Intel Core i7,8.0,15.6,256.0,549000
+lenovo,Intel Core i5,4.0,15.6,256.0,289989
+lenovo,Intel Pentium,4.0,15.6,1000.0,209990
+lenovo,Intel Core i3,4.0,15.6,1000.0,269990
+lenovo,AMD Ryzen 3,4.0,14.0,1000.0,209990
+asus,Intel Core i3,4.0,15.6,256.0,234987
+lenovo,Intel Core i5,8.0,15.6,256.0,299990
+asus,Intel Celeron,4.0,15.6,256.0,246886
+acer,Intel Core i5,8.0,15.6,512.0,648505
+lenovo,Intel Core i3,4.0,15.6,1000.0,299990
+acer,Intel Pentium,4.0,15.6,256.0,215028
+acer,Intel Pentium,4.0,15.6,1000.0,179751
+asus,AMD Ryzen 5,8.0,15.6,512.0,437790
+acer,Intel Core i5,8.0,14.0,512.0,399990
+acer,Intel Celeron,4.0,15.6,1000.0,214727
+lenovo,AMD Ryzen 3,4.0,15.6,1000.0,219990
+asus,AMD Ryzen 3,4.0,15.6,480.0,199990
+lenovo,Intel Core i5,8.0,15.6,512.0,519990
+lenovo,Intel Core i3,4.0,15.6,1000.0,269990
+acer,Intel Celeron,4.0,15.6,1000.0,168574
+lenovo,Intel Core i3,4.0,14.0,1000.0,219990
+lenovo,Intel Core i3,4.0,15.6,1000.0,179737
+lenovo,Intel Core i3,4.0,14.0,128.0,179900
+acer,Intel Core i3,4.0,15.6,256.0,227318
+hp,Intel Core i3,4.0,15.6,256.0,231790
+acer,AMD A6,4.0,15.6,256.0,189990
+acer,Intel Core i3,4.0,15.6,1024.0,247430
+lenovo,AMD Athlon,4.0,15.6,256.0,175265
+hp,Intel Core i7,8.0,15.6,512.0,599990
+acer,Intel Core i3,4.0,15.6,1024.0,257990
+acer,Intel Core i3,4.0,15.6,512.0,222502
+asus,Intel Pentium,4.0,14.0,128.0,259990
+acer,Intel Core i3,4.0,15.6,1024.0,209990
+zik,Intel Celeron,8.0,11.6,64.0,185000
+dell,Intel Core i3,4.0,14.0,1000.0,333290
+lenovo,Intel Celeron,4.0,14.0,1000.0,175000
+acer,Intel Core i5,8.0,14.0,512.0,590790
+acer,Intel Core i3,4.0,15.6,1000.0,227870
+hp,Intel Core i7,16.0,15.6,1000.0,699990
+apple,Apple M1,8.0,13.3,256.0,703000
+apple,Apple M1,8.0,13.3,256.0,703949
+apple,Apple M1,8.0,13.3,512.0,847181
+lenovo,Intel Core i3,4.0,15.6,1000.0,209990
+asus,Intel Core i3,4.0,15.6,1024.0,249990
+yaya,Intel Celeron,8.0,14.0,256.0,109999
+labwe,Intel Celeron,8.0,14.0,128.0,250000
+lenovo,Intel Celeron,4.0,14.0,128.0,162552
+hp,Intel Core i9,32.0,15.6,2000.0,999990
+asus,Intel Core i3,4.0,15.6,1024.0,249990
+asus,Intel Celeron,4.0,14.0,128.0,259990
+acer,Intel Pentium,4.0,14.0,64.0,235080
+acer,Intel Core i3,4.0,15.6,1000.0,238910
+lenovo,Intel Core i3,8.0,15.6,256.0,259989
+lenovo,Intel Core i7,16.0,14.0,512.0,559990
+lenovo,Intel Core i5,4.0,15.6,1000.0,330000
+hp,Intel Core i3,8.0,15.6,512.0,429989
+lenovo,Intel Core i5,8.0,15.6,256.0,352690
+lenovo,AMD 3020e,4.0,15.6,1000.0,197800
+hp,AMD Ryzen 5,8.0,15.6,512.0,419989
+hp,Intel Core i3,4.0,15.6,512.0,419980
+hp,Intel Core i3,8.0,15.6,512.0,417588
+lenovo,Intel Core i3,4.0,15.6,1000.0,199990
+lenovo,AMD Ryzen 3,4.0,15.6,256.0,209990
+hp,AMD Ryzen 3,4.0,15.6,512.0,409998
+dell,Intel Core i5,8.0,15.6,256.0,389000
+asus,Intel Core i3,4.0,15.6,1024.0,249990
+dell,Intel Core i3,4.0,15.6,1000.0,285240
+asus,Intel Pentium,8.0,15.6,256.0,237263
+dell,Intel Core i3,8.0,15.6,256.0,350000
+asus,Intel Celeron,8.0,15.6,256.0,244986
+hp,Intel Core i3,4.0,15.6,512.0,419989
+lenovo,Intel Core i3,8.0,15.6,512.0,299987
+asus,Intel Pentium,3.0,14.0,128.0,259990
+lenovo,AMD Ryzen 3,4.0,15.6,1000.0,295990
+dell,Intel Core i5,8.0,15.6,256.0,377000
+lenovo,AMD Ryzen 5,4.0,15.6,128.0,299990
+hp,Intel Core i5,8.0,15.6,512.0,467099
+dell,Intel Core i3,8.0,15.6,256.0,349990
+lenovo,Intel Core i3,8.0,15.6,256.0,230000
+asus,Intel Core i5,16.0,15.6,512.0,439945
+lenovo,Intel Core i5,8.0,14.0,256.0,489890
+lenovo,Intel Core i7,16.0,14.0,512.0,599990
+lenovo,Intel Celeron,4.0,15.6,1000.0,170000
+hp,Intel Core i5,8.0,15.6,512.0,499987
+acer,Intel Core i3,8.0,14.0,256.0,366084
+hp,Intel Core i3,8.0,15.6,512.0,419989
+hp,AMD Ryzen 5,8.0,14.0,256.0,289990
+asus,Intel Pentium,4.0,15.6,500.0,199990
+dell,Intel Core i5,8.0,15.6,256.0,369995
+hp,Intel Core i3,4.0,15.6,256.0,249990
+qmax,Intel Celeron,4.0,15.6,256.0,117089
+neo,Intel Celeron,8.0,15.6,128.0,515000
+lenovo,AMD Athlon,4.0,15.6,1024.0,239990
+lenovo,Intel Core i3,4.0,14.0,254.0,259990
+lenovo,Intel Core i3,8.0,15.0,256.0,240000
+lenovo,AMD 3020e,8.0,14.0,256.0,190000
+lenovo,Intel Core i3,8.0,15.6,256.0,249990
+acer,Intel Pentium,4.0,15.6,1000.0,195030
+acer,Intel Core i5,8.0,15.6,512.0,280000
+lenovo,Intel Core i3,8.0,15.6,1000.0,262972
+lenovo,Intel Core i3,8.0,15.6,512.0,279990
+hp,Intel Core i5,4.0,15.6,1000.0,411990
+hp,Intel Core i3,4.0,13.3,128.0,349990
+lenovo,Intel Core i3,4.0,15.6,256.0,238230
+lenovo,AMD Ryzen 5,16.0,15.6,512.0,498457
+lenovo,Intel Core i3,8.0,15.6,256.0,229865
+lenovo,Intel Core i3,8.0,15.6,512.0,264989
+lenovo,Intel Core i3,8.0,15.6,256.0,240000
+asus,Intel Core i5,16.0,15.4,512.0,427790
+asus,Intel Core i5,16.0,15.6,512.0,501000
+dell,Intel Core i5,8.0,14.0,255.0,332430
+asus,Intel Core i5,8.0,15.6,512.0,478480
+asus,Intel Core i3,8.0,14.0,512.0,399990
+asus,Intel Pentium,4.0,14.0,128.0,299990
+hp,Intel Core i3,8.0,15.6,256.0,369900
+hp,Intel Core i5,8.0,14.0,256.0,319990
+lenovo,Intel Core i7,16.0,13.5,1000.0,1550230
+asus,Intel Core i3,4.0,15.6,256.0,349990
+acer,Intel Core i3,4.0,15.6,256.0,239990
+asus,Intel Core i5,16.0,17.3,512.0,549977
+hp,Intel Core i3,8.0,14.0,256.0,222000
+acer,Intel Pentium,4.0,14.0,256.0,355829
+acer,Intel Celeron,4.0,14.0,128.0,239879
+hp,AMD Ryzen 3,8.0,15.6,512.0,379990
+asus,Intel Core i5,8.0,15.6,512.0,455000
+acer,Intel Core i3,8.0,15.6,256.0,284900
+asus,Intel Celeron,4.0,14.0,128.0,259990
+hp,AMD Ryzen 5,8.0,15.6,512.0,379990
+asus,Intel Core i5,16.0,15.6,512.0,449000
+dell,AMD Ryzen 5,8.0,15.6,512.0,429990
+hp,AMD Ryzen 3,4.0,15.6,512.0,409988
+lenovo,AMD Ryzen 7,16.0,16.0,1000.0,887200
+acer,Intel Core i3,8.0,15.6,512.0,299990
+lenovo,Intel Core i3,8.0,15.6,256.0,251012
+hp,AMD Ryzen 3,4.0,15.6,256.0,409999
+hp,AMD Ryzen 3,4.0,15.6,512.0,399987
+lenovo,Intel Core i3,4.0,15.6,1000.0,269990
+hp,AMD Ryzen 3,8.0,15.6,512.0,419990
+hp,Intel Core i3,8.0,15.6,512.0,449989
+msi,Intel Core i5,16.0,15.6,512.0,483460
+msi,Intel Core i5,8.0,15.6,512.0,479900
+asus,Intel Core i5,8.0,15.6,512.0,442650
+lenovo,Intel Core i3,8.0,15.6,256.0,239063
+asus,Intel Core i3,8.0,14.0,256.0,403990
+lenovo,Intel Core i5,16.0,15.6,512.0,605990
+hp,AMD Ryzen 3,4.0,15.6,512.0,419988
+asus,Intel Core i5,8.0,15.6,512.0,449504
+asus,Intel Core i5,16.0,15.6,512.0,595990
+lenovo,Intel Core i3,4.0,15.6,256.0,309987
+hp,Intel Core i7,16.0,15.6,512.0,538671
+acer,AMD Ryzen 5,8.0,15.6,512.0,449990
+hp,AMD Ryzen 3,4.0,15.6,256.0,409998
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,297811
+lenovo,Intel Core i5,4.0,15.6,1000.0,399898
+asus,Intel Pentium,4.0,14.0,256.0,259470
+lenovo,Intel Core i7,16.0,16.0,1000.0,925971
+hp,AMD Ryzen 3,4.0,15.6,512.0,380000
+lenovo,Intel Core i3,8.0,15.6,256.0,251388
+hp,Intel Core i7,8.0,13.3,256.0,549990
+lenovo,Intel Core i5,4.0,15.6,1024.0,252990
+acer,Intel Core i3,4.0,15.6,1024.0,349990
+acer,Intel Core i5,4.0,15.6,256.0,286430
+asus,Intel Core i5,16.0,15.6,512.0,488000
+lenovo,Intel Core i3,8.0,14.0,256.0,269900
+hp,Intel Core i5,8.0,14.0,255.0,309990
+acer,Intel Pentium,4.0,14.0,128.0,299990
+hp,Intel Core i3,8.0,15.6,512.0,429989
+asus,AMD Ryzen 7,16.0,15.6,512.0,700000
+asus,Intel Celeron,4.0,15.6,128.0,259990
+asus,Intel Core i5,16.0,17.3,512.0,544482
+lenovo,Intel Core i5,8.0,15.6,256.0,369299
+asus,Intel Core i3,4.0,15.6,1000.0,199990
+asus,Intel Core i5,16.0,15.6,512.0,427790
+asus,Intel Celeron,4.0,14.0,128.0,259901
+acer,AMD Ryzen 3,8.0,15.6,256.0,256255
+hp,Intel Core i5,8.0,13.3,256.0,499990
+hp,Intel Core i7,8.0,13.3,256.0,549990
+hp,Intel Core i3,8.0,14.0,256.0,399990
+hp,Intel Core i5,8.0,13.3,512.0,549990
+acer,Intel Pentium,4.0,14.0,256.0,269990
+asus,AMD Ryzen 7,16.0,14.0,512.0,1019990
+hp,Intel Core i5,8.0,13.3,512.0,769990
+asus,Intel Core i5,8.0,15.6,512.0,446532
+hp,AMD Ryzen 7,16.0,16.1,1000.0,626790
+lenovo,Intel Core i3,8.0,15.6,1000.0,228954
+asus,Intel Core i5,16.0,15.6,512.0,447790
+acer,AMD Ryzen 7,16.0,14.0,512.0,278754
+acer,Intel Core i3,4.0,17.3,256.0,259990
+acer,Intel Pentium,4.0,15.6,1024.0,209500
+asus,Intel Core i5,16.0,17.3,512.0,540765
+acer,Intel Core i7,8.0,15.6,512.0,477990
+acer,Intel Pentium,4.0,15.6,1024.0,169138
+acer,AMD Ryzen 3,8.0,15.6,256.0,432585
+lenovo,AMD Athlon,4.0,15.6,500.0,202917
+acer,Intel Core i3,8.0,15.6,1024.0,233529
+asus,AMD Ryzen 7,16.0,15.6,512.0,899990
+acer,Intel Pentium,8.0,15.6,256.0,187336
+lenovo,Intel Core i9,32.0,16.0,1024.0,1399790
+asus,Intel Core i5,8.0,17.3,512.0,535945
+lenovo,Intel Core i3,8.0,15.6,1000.0,239999
+lenovo,Intel Pentium,4.0,15.6,256.0,259987
+lenovo,Intel Pentium,8.0,15.6,256.0,219900
+lenovo,Intel Pentium,4.0,15.6,1000.0,218990
+acer,Intel Core i5,8.0,15.6,240.0,379997
+hp,AMD Ryzen 5,8.0,15.6,256.0,419989
+lenovo,Intel Core i7,16.0,16.0,512.0,846211
+asus,Intel Core i5,16.0,15.6,512.0,448438
+lenovo,Intel Core i3,4.0,15.6,256.0,209999
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,499990
+lenovo,Intel Pentium,4.0,15.6,1000.0,207500
+lenovo,Intel Celeron,4.0,15.6,1000.0,299000
+asus,Intel Core i5,16.0,15.6,512.0,449992
+asus,Intel Core i5,16.0,14.0,512.0,599990
+asus,Intel Celeron,4.0,14.0,128.0,259990
+lenovo,Intel Celeron,8.0,15.6,256.0,257079
+lenovo,AMD Ryzen 7,16.0,17.3,512.0,699990
+lenovo,Intel Core i5,8.0,15.6,512.0,299988
+asus,AMD Ryzen 5,8.0,14.0,512.0,499990
+dell,AMD Ryzen 3,8.0,15.6,256.0,399990
+lenovo,Intel Celeron,4.0,15.6,256.0,163367
+acer,Intel Core i5,16.0,15.6,512.0,453155
+lenovo,AMD Ryzen 3,8.0,14.0,512.0,190000
+hp,Intel Celeron,8.0,15.6,256.0,209990
+hp,AMD Ryzen 3,4.0,15.6,256.0,299990
+dell,AMD Ryzen 3,8.0,15.6,256.0,297990
+lenovo,AMD Ryzen 5,16.0,16.0,1000.0,884995
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,439999
+lenovo,AMD Ryzen 5,16.0,15.6,512.0,547960
+asus,,8.0,15.6,512.0,409990
+msi,AMD Ryzen 5,8.0,15.6,512.0,681670
+hp,Intel Core i7,8.0,15.6,256.0,499990
+msi,Intel Core i5,8.0,15.6,512.0,534070
+asus,Intel Core i5,8.0,14.0,512.0,329999
+dell,AMD Ryzen 3,8.0,15.6,256.0,399990
+dell,Intel Core i5,8.0,15.6,512.0,495000
+dell,Intel Core i3,8.0,15.6,255.0,384195
+asus,Intel Core i3,8.0,14.0,512.0,479990
+hp,AMD Ryzen 7,16.0,13.3,512.0,950000
+apple,Apple M1,16.0,14.2,512.0,1037533
+dell,AMD Ryzen 5,8.0,15.6,256.0,585630
+acer,Intel Core i3,8.0,15.6,256.0,250000
+leap,Intel Pentium,4.0,11.6,128.0,224990
+acer,Intel Core i3,8.0,15.6,256.0,250000
+hp,Intel Core i5,8.0,15.6,256.0,379000
+apple,Apple M1,16.0,16.0,1000.0,1346998
+lenovo,Intel Core i3,8.0,15.6,240.0,249990
+asus,Intel Core i5,16.0,15.6,512.0,585590
+acer,Intel Core i3,8.0,14.0,256.0,329990
+acer,Intel Celeron,4.0,15.6,256.0,209000
+apple,Apple M1,16.0,14.2,1000.0,1073978
+acer,Intel Core i5,8.0,15.6,512.0,439990
+lenovo,Intel Celeron,4.0,15.6,1024.0,173490
+asus,AMD Ryzen 7,8.0,15.6,512.0,699890
+asus,AMD Ryzen 7,8.0,15.6,512.0,648385
+asus,Intel Core i7,16.0,14.0,512.0,404999
+acer,AMD Ryzen 3,4.0,15.6,256.0,256399
+hp,AMD Ryzen 3,8.0,15.6,256.0,409998
+lenovo,Intel Celeron,4.0,15.6,500.0,159980
+acer,Intel Pentium,4.0,15.6,1000.0,176125
+acer,Intel Core i5,8.0,15.6,511.0,485539
+lenovo,Intel Core i3,8.0,15.6,256.0,197807
+lenovo,Intel Core i3,4.0,15.6,256.0,399980
+lenovo,Intel Core i3,4.0,15.6,128.0,234509
+lenovo,AMD Ryzen 3,4.0,15.6,128.0,235094
+acer,Intel Core i5,8.0,15.6,512.0,467990
+lenovo,Intel Core i5,8.0,15.6,512.0,467990
+asus,Intel Core i5,8.0,15.6,512.0,447965
+asus,Intel Core i5,16.0,15.6,512.0,587790
+hp,AMD Ryzen 7,8.0,15.6,512.0,477910
+lenovo,Intel Core i5,8.0,15.6,1000.0,319999
+asus,Intel Core i3,4.0,14.0,512.0,449990
+asus,Intel Celeron,4.0,14.0,256.0,259990
+asus,Intel Core i3,4.0,14.0,256.0,261550
+lenovo,Intel Core i3,8.0,15.6,1000.0,238999
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,445000
+lenovo,Intel Core i5,8.0,15.6,512.0,234990
+asus,Intel Core i5,16.0,15.6,512.0,455000
+apple,Apple M1,16.0,14.2,1024.0,1156000
+acer,Intel Core i3,8.0,14.0,256.0,329990
+apple,Apple M1,32.0,16.0,1024.0,1672400
+apple,Apple M1,32.0,16.0,1024.0,1665000
+acer,Intel Core i3,8.0,15.6,512.0,213137
+hp,AMD Ryzen 3,8.0,15.6,256.0,289980
+lenovo,Intel Core i5,8.0,15.6,256.0,299990
+dell,Intel Core i3,8.0,15.6,256.0,394650
+asus,Intel Core i5,16.0,15.6,512.0,458112
+asus,Intel Core i5,16.0,15.6,512.0,599990
+noutbuk,Intel Celeron,8.0,15.6,256.0,227790
+noutbuk,AMD Athlon,8.0,15.6,256.0,247990
+hp,Intel Core i5,8.0,15.6,256.0,309990
+lenovo,Intel Core i7,16.0,16.0,512.0,844995
+apple,Apple M1,16.0,14.2,512.0,1716989
+apple,Apple M1,16.0,14.2,512.0,1590989
+asus,Intel Core i5,8.0,15.6,256.0,399990
+hp,Intel Core i3,8.0,14.0,256.0,299990
+lenovo,AMD Ryzen 3,4.0,15.6,256.0,299990
+hp,Intel Celeron,8.0,14.0,256.0,206348
+acer,Intel Core i3,4.0,14.0,256.0,264897
+asus,Intel Core i5,16.0,14.0,512.0,599990
+asus,Intel Core i5,8.0,15.6,512.0,299980
+lenovo,Intel Core i3,4.0,15.0,1000.0,229990
+asus,AMD Ryzen 7,8.0,15.6,512.0,596990
+asus,Intel Core i3,8.0,15.6,256.0,394980
+acer,,8.0,15.6,512.0,264990
+acer,Intel Celeron,8.0,15.6,256.0,219898
+dream,Intel Core i5,8.0,15.6,500.0,504483
+asus,Intel Celeron,4.0,14.0,128.0,349990
+lenovo,Intel Core i3,8.0,15.6,512.0,285326
+dream,Intel Core i5,8.0,15.6,500.0,452035
+acer,Intel Core i3,4.0,15.6,256.0,240870
+acer,Intel Core i5,4.0,15.6,256.0,454490
+asus,Intel Celeron,4.0,15.6,256.0,175600
+hp,Intel Core i7,16.0,15.6,512.0,1499990
+lenovo,Intel Core i5,8.0,14.0,512.0,349990
+asus,Intel Core i5,16.0,15.6,512.0,459990
+lenovo,AMD Ryzen 3,8.0,14.0,256.0,269990
+asus,Intel Core i3,8.0,15.6,256.0,349990
+lenovo,Intel Core i3,4.0,14.0,1000.0,147307
+asus,Intel Core i5,8.0,14.0,512.0,599990
+acer,Intel Core i5,8.0,15.6,512.0,470000
+acer,AMD Athlon,4.0,15.6,256.0,225110
+acer,Intel Celeron,4.0,15.6,256.0,162474
+msi,Intel Core i5,16.0,15.6,512.0,549990
+msi,Intel Core i5,16.0,14.0,512.0,797890
+msi,Intel Core i7,16.0,15.6,512.0,649990
+hp,AMD Ryzen 3,8.0,15.6,512.0,349990
+msi,Intel Core i5,8.0,15.6,256.0,519800
+msi,AMD Ryzen 7,8.0,14.0,512.0,399900
+msi,Intel Core i5,16.0,15.6,512.0,539700
+asus,Intel Core i7,16.0,16.0,512.0,699920
+lenovo,Intel Core i3,8.0,15.6,256.0,322828
+lenovo,Intel Core i3,8.0,15.6,256.0,249990
+lenovo,Intel Core i5,16.0,15.6,512.0,499990
+lenovo,AMD Ryzen 7,16.0,15.6,512.0,999990
+lenovo,Intel Core i3,4.0,15.6,256.0,249990
+hp,AMD Ryzen 3,8.0,15.6,256.0,259990
+lenovo,Intel Core i5,4.0,15.6,256.0,299990
+acer,Intel Core i5,4.0,15.6,1024.0,285710
+hp,Intel Core i3,8.0,14.0,256.0,399990
+asus,Intel Core i5,8.0,15.6,512.0,439990
+asus,Intel Core i5,16.0,14.0,512.0,599990
+asus,Intel Core i5,8.0,14.0,256.0,554345
+asus,Intel Core i5,8.0,14.0,256.0,499990
+hp,Intel Core i5,8.0,16.1,512.0,589990
+lenovo,Intel Core i3,8.0,15.6,512.0,339990
+lenovo,Intel Core i3,4.0,15.6,1000.0,259990
+hp,AMD Ryzen 5,8.0,16.1,512.0,515570
+hp,AMD Ryzen 5,8.0,16.1,512.0,409999
+acer,Intel Core i5,8.0,17.3,512.0,799990
+hp,AMD Ryzen 5,8.0,16.1,512.0,409999
+lenovo,Intel Core i3,8.0,15.6,1000.0,249989
+hp,Intel Core i5,8.0,15.6,512.0,362590
+asus,Intel Core i3,8.0,15.6,256.0,349990
+asus,Intel Celeron,4.0,14.0,128.0,259990
+apple,Apple M1,32.0,14.0,512.0,1650000
+asus,Intel Core i5,16.0,15.6,512.0,444175
+msi,AMD Ryzen 7,16.0,15.6,512.0,869990
+asus,Intel Core i5,8.0,15.6,512.0,459980
+msi,AMD Ryzen 7,16.0,15.6,512.0,793980
+msi,AMD Ryzen 5,8.0,15.6,512.0,522700
+gigabyte,Intel Core i7,16.0,14.0,512.0,470990
+asus,Intel Core i7,16.0,16.0,512.0,659990
+asus,AMD Ryzen 5,8.0,15.6,256.0,464490
+asus,Intel Core i5,8.0,14.0,512.0,599990
+lenovo,AMD Athlon,4.0,15.6,128.0,198761
+asus,Intel Core i3,4.0,14.0,509.0,269898
+asus,Intel Core i7,16.0,15.6,512.0,652450
+asus,,8.0,15.6,256.0,239988
+lenovo,AMD Ryzen 3,8.0,15.6,256.0,249990
+lenovo,Intel Core i5,8.0,14.0,256.0,327990
+hp,Intel Core i7,8.0,15.6,512.0,499990
+dell,Intel Core i5,16.0,15.6,512.0,430000
+dell,Intel Core i7,8.0,15.6,512.0,424000
+asus,AMD Ryzen 7,16.0,15.6,512.0,899999
+asus,Intel Core i5,8.0,15.6,256.0,279890
+dell,Intel Core i7,8.0,15.6,512.0,555000
+hp,Intel Core i5,8.0,14.0,256.0,265633
+lenovo,AMD Ryzen 5,8.0,15.6,1024.0,299990
+acer,Intel Core i5,8.0,15.6,1000.0,399990
+acer,Intel Core i3,8.0,15.4,256.0,424990
+asus,Intel Pentium,4.0,15.6,500.0,229990
+acer,,4.0,15.6,256.0,299990
+acer,Intel Core i3,4.0,15.6,1000.0,237828
+acer,Intel Core i3,4.0,15.6,256.0,339990
+lenovo,Intel Celeron,4.0,15.6,1000.0,279989
+lenovo,AMD Ryzen 3,8.0,15.6,1000.0,286897
+lenovo,Intel Core i3,8.0,15.6,1000.0,239999
+lenovo,Intel Core i5,8.0,15.6,512.0,299988
+asus,Intel Core i3,8.0,15.6,1000.0,309990
+asus,Intel Core i5,8.0,14.0,512.0,706990
+asus,Intel Celeron,4.0,14.0,256.0,259990
+acer,Intel Core i3,4.0,15.0,1000.0,403990
+lenovo,Intel Core i5,8.0,14.0,512.0,565587
+lenovo,Intel Core i5,16.0,15.6,512.0,610790
+hp,AMD Ryzen 3,8.0,15.6,256.0,363905
+hp,Intel Core i5,8.0,13.3,512.0,499570
+hp,Intel Core i5,8.0,14.0,512.0,489890
+huawei,Intel Core i5,8.0,15.6,512.0,355000
+huawei,Intel Core i5,8.0,15.6,256.0,358995
+hp,Intel Core i5,16.0,14.0,512.0,549990
+apple,Apple M1,32.0,14.0,512.0,1650000
+apple,Apple M1,32.0,14.2,512.0,1650000
+lenovo,AMD Ryzen 3,4.0,15.6,1000.0,169900
+asus,Intel Core i5,16.0,14.0,512.0,549990
+asus,Intel Core i3,8.0,14.0,256.0,316790
+lenovo,AMD Ryzen 3,8.0,15.6,256.0,229990
+asus,Intel Core i5,16.0,17.3,512.0,659990
+lenovo,Intel Core i3,4.0,15.6,256.0,249988
+hp,AMD Ryzen 5,16.0,16.1,512.0,599790
+asus,Intel Pentium,8.0,15.6,256.0,299990
+lenovo,AMD Ryzen 7,16.0,15.6,512.0,657990
+asus,Intel Core i5,8.0,15.6,512.0,459990
+lenovo,AMD Ryzen 3,8.0,15.6,512.0,282997
+lenovo,Intel Core i5,8.0,15.6,256.0,399970
+hp,AMD Ryzen 5,8.0,16.1,512.0,699980
+lenovo,AMD Ryzen 5,8.0,15.6,512.0,599989
+hp,Intel Core i7,16.0,14.0,512.0,599990
+asus,Intel Core i5,8.0,15.6,512.0,268610
+lenovo,AMD Ryzen 5,8.0,15.6,256.0,299899
+lenovo,AMD Ryzen 7,8.0,15.6,512.0,229800
