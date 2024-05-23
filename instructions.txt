@@ -1,0 +1,18 @@
+mkdir -p ~/miniconda3
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+
+
+~/miniconda3/bin/conda init bash
+~/miniconda3/bin/conda init zsh
+
+
+bash <conda-installer-name>-latest-Linux-x86_64.sh
+conda-installer-name will be one of "Miniconda3", "Anaconda", or "Miniforge3".
+
+Follow the prompts on the installer screens. If you are unsure about any setting, accept the defaults. You can change them later.
+
+To make the changes take effect, close and then re-open your terminal window.
+
+Test your installation. In your terminal window, run the command conda list. A list of installed packages appears if it has been installed correctly.
